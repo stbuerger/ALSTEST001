@@ -8,8 +8,8 @@ apps:
   desc: A simple CHAT server with node, jquery and websockets.
   framework: node
   runtime: node
-  license:
-  commit:
+  license: MIT
+  commit: master
   src: https://github.com/amirrajan/nodejs-chat
   info: https://github.com/amirrajan/nodejs-chat/blob/master/README.md
   icon: default
