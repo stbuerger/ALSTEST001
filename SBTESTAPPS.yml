@@ -4,7 +4,7 @@ store:
   icon: http://static.als.hpcloud.com/hp.ico
 apps:
 - name: Node CHAT
-  id: ace
+  id: CHAT
   desc: A simple CHAT server with node, jquery and websockets.
   framework: node
   runtime: node
