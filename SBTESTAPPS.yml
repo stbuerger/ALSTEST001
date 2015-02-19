@@ -1,7 +1,9 @@
+
 store:
   title: Stefan's Test Apps
   contact: stbuerger@googlemail.com
   icon: http://static.als.hpcloud.com/hp.ico
+
 apps:
 - name: SB Node Chat
   id: sb-note-chat
