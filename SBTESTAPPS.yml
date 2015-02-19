@@ -3,9 +3,9 @@ store:
   contact: stbuerger@googlemail.com
   icon: http://static.als.hpcloud.com/hp.ico
 apps:
-- name: Node CHAT
-  id: CHAT
-  desc: A simple CHAT server with node, jquery and websockets.
+- name: SB Node Chat
+  id: sb-note-chat
+  desc: A simple but funny CHAT server with node, jquery and websockets.
   framework: node
   runtime: node
   license: MIT
