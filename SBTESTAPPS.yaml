@@ -1,0 +1,17 @@
+
+store:
+  title: Stefan's Test Applications
+  contact: Stefan Buerger, HP <stefan.buerger-AT-hp.com>
+  icon: http://15.125.92.131/SBALS/sb_t2.ico
+apps:
+- name: Funny CHAT
+  id: funny-chat
+  desc: A simple but funny CHAT app with node, jquery and web-sockets. Shamelessly borought from (see README)
+  framework: node
+  runtime: node
+  license: MIT
+  commit: master
+  src: https://github.com/amirrajan/nodejs-chat
+  info: https://github.com/amirrajan/nodejs-chat/blob/master/README.md
+  icon: http://15.125.92.131/SBALS/homepage-sb-logo.png
+  mem: 128
