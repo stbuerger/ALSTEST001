@@ -1,0 +1,16 @@
+store:
+  title: Stefan's Test Apps
+  contact: stbuerger@googlemail.com
+  icon: http://static.als.hpcloud.com/hp.ico
+apps:
+- name: Node CHAT
+  id: ace
+  desc: A simple CHAT server with node, jquery and websockets.
+  framework: node
+  runtime: node
+  license:
+  commit:
+  src: https://github.com/amirrajan/nodejs-chat
+  info: https://github.com/amirrajan/nodejs-chat/blob/master/README.md
+  icon: default
+  mem: 128
