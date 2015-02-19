@@ -2,7 +2,7 @@
 store:
   title: Stefan's Test Applications
   contact: Stefan Buerger, HP <stefan.buerger-AT-hp.com>
-  icon: http://15.125.92.131/SBALS/sb_t2.ico
+  icon: http://some.server.net/SBALS/sb_t2.ico
 apps:
 - name: Funny CHAT
   id: funny-chat
@@ -13,5 +13,5 @@ apps:
   commit: master
   src: https://github.com/amirrajan/nodejs-chat
   info: https://github.com/amirrajan/nodejs-chat/blob/master/README.md
-  icon: http://15.125.92.131/SBALS/homepage-sb-logo.png
+  icon: http://some.server.net/SBALS/homepage-sb-logo.png
   mem: 128
